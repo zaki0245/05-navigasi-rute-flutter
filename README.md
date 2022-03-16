@@ -1,16 +1,3 @@
-# belanja
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot (322)](https://user-images.githubusercontent.com/89893117/158508414-6c9d4dbc-9ff0-4b83-aa02-db91e2936c07.png)
+![Screenshot (323)](https://user-images.githubusercontent.com/89893117/158508415-6c1950b2-2fe7-4781-b98d-9f41258164eb.png)
+![Screenshot (324)](https://user-images.githubusercontent.com/89893117/158508409-ba672e4d-1120-446b-9938-15d87339af08.png)
